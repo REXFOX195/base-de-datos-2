@@ -23,6 +23,6 @@ END;
 select CADENACAPICUA('dba i', 'dba ii')
 ```
 
-- 🔭 docente LIC. WILLIAM BARRA**
-- 🌱 MATERIA BASE DE DATOS II**
+- 🔭 docente LIC. WILLIAM BARRA
+- 🌱 MATERIA BASE DE DATOS II
 - 👯 UNIVERSIDAD UNIFRANZ
