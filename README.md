@@ -2,7 +2,7 @@
 <h1 align="center"> PORTAFOLIO</h1>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-➤ enlace de repositorio: **[hito 3](https://github.com/REXFOX195/base-de-datos-2/tree/master/hito%202)**
+➤ enlace de repositorio: **[hito 2](https://github.com/REXFOX195/base-de-datos-2/tree/master/hito%202)**
 
 ➤ enlace de repositorio: **[hito 3](https://github.com/REXFOX195/base-de-datos-2/tree/master/hito%203/procesual)**
 ```javascript
