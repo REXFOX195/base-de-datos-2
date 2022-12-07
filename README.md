@@ -5,6 +5,8 @@
 ➤ enlace de repositorio: **[hito 2](https://github.com/REXFOX195/base-de-datos-2/tree/master/hito%202)**
 
 ➤ enlace de repositorio: **[hito 3](https://github.com/REXFOX195/base-de-datos-2/tree/master/hito%203/procesual)**
+
+➤ enlace de repositorio: **[hito 4](https://github.com/REXFOX195/base-de-datos-2/tree/master/hito%204)**
 ```javascript
 ejemplo
 #verifica si una cadena leila al reves  es la misma cadena
