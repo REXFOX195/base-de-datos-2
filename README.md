@@ -272,7 +272,7 @@ where BUSCA_NOMBRES_APELLIDOS(est.nombres,est.apellidos,'sandra','mavir uria')
 ### [PROCESUAL](https://github.com/REXFOX195/base-de-datos-2/tree/master/hito%204/procesual)
 ### [EVALUCION](https://github.com/REXFOX195/base-de-datos-2/tree/master/hito%204/examen)
 
-## ➤ Code   
+## ➤ Code SQL  
 ```javascript
 import 'package:flutter/material.dart';
 import 'package:flutter_memory_game/constants.dart';
