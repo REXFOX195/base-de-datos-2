@@ -1,11 +1,11 @@
 <h1 align="center"> PORTAFOLIO BASE DE DATOS II  </h1>
 
-<img align="right" src="https://i.ytimg.com/vi/jVQy1QzgnwM/maxresdefault.jpg" height="400" width="1000">
+<img align="right" src="https://www.certus.edu.pe/blog/wp-content/uploads/2021/06/que-es-sql-todo-debes-saber-lenguaje.jpg" height="400" width="1000">
 
 
 <h1 align="center"> PORTAFOLIO</h1>
 
-![snake gif](https://acegif.com/wp-content/uploads/2022/07/pac-man-ghosts-title.gif)
+![snake gif](https://media3.giphy.com/media/RtdRhc7TxBxB0YAsK6/200w.gif?cid=6c09b952bsrrw3z12wsg7gxa239tiqjtzxogsdu0v2h3txjx&rid=200w.gif&ct=g)
 
 
 ## ➤ HITO 2 
